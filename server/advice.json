@@ -1,0 +1,223 @@
+{
+  "glucose": {
+    "positive": [
+      "Your fasting glucose is {glucose} mg/dL, which is within a healthy range—great job!",
+      "At {glucose} mg/dL, your blood sugar control is excellent—keep it up!",
+      "With glucose at {glucose}, you’re maintaining stable sugar levels—well done!"
+    ],
+    "negative": [
+      "Your fasting glucose of {glucose} mg/dL is high—consider reducing simple carbs.",
+      "At {glucose}, your blood sugar is above recommended levels—schedule a check-up.",
+      "A glucose of {glucose} indicates increased risk—add post-meal walks.",
+      "With {glucose} mg/dL, you’re in pre-diabetes territory—monitor daily.",
+      "Your sugar at {glucose} is concerning—swap sweets for fiber-rich snacks.",
+      "High glucose ({glucose}) requires attention—consult a nutritionist.",
+      "At {glucose} mg/dL, your levels are elevated—aim for balanced meals.",
+      "A reading of {glucose} is very high—seek medical advice promptly."
+    ]
+  },
+  "cholesterol": {
+    "positive": [
+      "Your total cholesterol is {cholesterol} mg/dL, which is within normal range—great work!",
+      "At {cholesterol}, your lipid profile looks healthy—keep up the balanced diet.",
+      "With cholesterol at {cholesterol}, you’re supporting good heart health."
+    ],
+    "negative": [
+      "Your total cholesterol of {cholesterol} mg/dL is high—reduce saturated fats.",
+      "At {cholesterol}, your cholesterol is elevated—incorporate more oats and nuts.",
+      "A cholesterol level of {cholesterol} suggests risk—increase soluble fiber.",
+      "With {cholesterol} mg/dL, consider a plant-based diet to lower levels.",
+      "Your lipid at {cholesterol} requires attention—exercise more frequently.",
+      "High cholesterol ({cholesterol}) ups your risk—add omega-3 sources.",
+      "At {cholesterol} mg/dL, levels are above target—consult a dietitian.",
+      "A reading of {cholesterol} is very high—seek medical guidance soon."
+    ]
+  },
+  "ldl": {
+    "positive": [
+      "Your LDL is {ldl} mg/dL, which is at a healthy level—well done!",
+      "At {ldl}, your LDL cholesterol is controlled—continue your diet.",
+      "With LDL at {ldl}, you’re supporting good cardiovascular health."
+    ],
+    "negative": [
+      "Your LDL of {ldl} mg/dL is high—limit trans fats.",
+      "At {ldl}, LDL is above ideal—add soluble fiber to meals.",
+      "High LDL ({ldl}) increases risk—consider reducing fried foods.",
+      "With {ldl} mg/dL, you need to lower LDL—exercise regularly.",
+      "Your LDL at {ldl} suggests caution—include more fatty fish.",
+      "LDL of {ldl} is elevated—consult your doctor about medication.",
+      "At {ldl} mg/dL, LDL is concerning—opt for whole grains.",
+      "A reading of {ldl} is very high—seek professional advice."
+    ]
+  },
+  "hdl": {
+    "positive": [
+      "Your HDL is {hdl} mg/dL, which is protective—excellent!",
+      "At {hdl}, your good cholesterol is strong—keep it up.",
+      "With HDL at {hdl}, you’re lowering your heart risk."
+    ],
+    "negative": [
+      "Your HDL of {hdl} mg/dL is low—consider aerobic exercise.",
+      "At {hdl}, HDL is below target—add healthy fats like olive oil.",
+      "Low HDL ({hdl}) elevates risk—include nuts and seeds in diet.",
+      "With {hdl} mg/dL, work to raise HDL—try moderate alcohol in consultation.",
+      "Your HDL at {hdl} needs improvement—add more physical activity.",
+      "HDL of {hdl} is concerning—consult a healthcare professional.",
+      "At {hdl} mg/dL, HDL is too low—opt for fatty fish twice a week.",
+      "A reading of {hdl} is very low—professional guidance recommended."
+    ]
+  },
+  "triglycerides": {
+    "positive": [
+      "Your triglycerides are {triglycerides} mg/dL, which is within normal limits.",
+      "At {triglycerides}, your triglyceride level is healthy—great job.",
+      "With triglycerides at {triglycerides}, you’re on a good track."
+    ],
+    "negative": [
+      "Your triglycerides of {triglycerides} mg/dL are high—reduce sugar intake.",
+      "At {triglycerides}, levels are elevated—limit refined carbs.",
+      "High triglycerides ({triglycerides}) increase risk—add fish oil.",
+      "With {triglycerides} mg/dL, consider low-carb meals.",
+      "Your level at {triglycerides} needs attention—avoid sugary drinks.",
+      "Triglycerides of {triglycerides} are concerning—consult a dietitian.",
+      "At {triglycerides} mg/dL, levels are very high—seek medical advice.",
+      "A reading of {triglycerides} is critical—professional help needed."
+    ]
+  },
+  "crp": {
+    "positive": [
+      "Your CRP is {crp} mg/L, indicating low inflammation.",
+      "At {crp}, your inflammatory markers are healthy.",
+      "With CRP at {crp}, you’re maintaining good immune balance."
+    ],
+    "negative": [
+      "Your CRP of {crp} mg/L is elevated—consider an anti-inflammatory diet.",
+      "At {crp}, inflammation is high—add turmeric and ginger.",
+      "High CRP ({crp}) suggests risk—increase omega-3 intake.",
+      "With {crp} mg/L, consider stress reduction techniques.",
+      "Your CRP at {crp} is concerning—consult a healthcare provider.",
+      "CRP of {crp} indicates chronic inflammation—seek medical guidance.",
+      "At {crp} mg/L, inflammation is very high—professional intervention advised.",
+      "A reading of {crp} is critical—please consult your physician."
+    ]
+  },
+  "waist": {
+    "positive": [
+      "Your waist circumference is {waist} cm, within healthy range.",
+      "At {waist} cm, your abdominal fat is well-controlled.",
+      "With waist at {waist}, you’re maintaining good metabolic health."
+    ],
+    "negative": [
+      "Your waist of {waist} cm is high—incorporate core exercises.",
+      "At {waist}, abdominal fat is concerning—focus on cardio.",
+      "High waist ({waist}) ups risk—reduce caloric intake.",
+      "With {waist} cm, consider strength training for core.",
+      "Your waist at {waist} needs attention—avoid sugary foods.",
+      "Waist of {waist} is elevated—consult a fitness coach.",
+      "At {waist} cm, levels are high—seek professional advice.",
+      "A reading of {waist} is very high—medical supervision suggested."
+    ]
+  },
+  "systolic": {
+    "positive": [
+      "Your systolic BP is {systolic} mmHg, which is optimal.",
+      "At {systolic}, your top blood pressure reading is excellent.",
+      "With systolic at {systolic}, your heart is well-managed."
+    ],
+    "negative": [
+      "Your systolic of {systolic} mmHg is high—reduce salt.",
+      "At {systolic}, blood pressure is elevated—add relaxation exercises.",
+      "High systolic ({systolic}) indicates risk—consult a doctor.",
+      "With {systolic} mmHg, monitor your BP daily.",
+      "Your systolic at {systolic} needs attention—consider DASH diet.",
+      "Systolic of {systolic} is concerning—pursue aerobic workouts.",
+      "At {systolic}, hypertension risk—seek medical guidance.",
+      "A reading of {systolic} is very high—urgent care recommended."
+    ]
+  },
+  "diastolic": {
+    "positive": [
+      "Your diastolic BP is {diastolic} mmHg, which is optimal.",
+      "At {diastolic}, your bottom blood pressure reading is excellent.",
+      "With diastolic at {diastolic}, your heart health is strong."
+    ],
+    "negative": [
+      "Your diastolic of {diastolic} mmHg is high—reduce stress.",
+      "At {diastolic}, blood pressure is elevated—practice deep breathing.",
+      "High diastolic ({diastolic}) suggests risk—consult a healthcare provider.",
+      "With {diastolic} mmHg, monitor your BP weekly.",
+      "Your diastolic at {diastolic} needs attention—improve diet.",
+      "Diastolic of {diastolic} is concerning—add daily walks.",
+      "At {diastolic}, hypertension risk—seek medical advice.",
+      "A reading of {diastolic} is very high—urgent evaluation suggested."
+    ]
+  },
+  "Heart Disease": {
+    "positive": [
+      "Your Heart Disease risk is {Heart Disease}%—you’re doing well, maintain your healthy habits!",
+      "At {Heart Disease}%, your cardiovascular risk is low—keep up the good work.",
+      "With Heart Disease risk at {Heart Disease}%, your heart health is strong."
+    ],
+    "negative": [
+      "Your Heart Disease risk of {Heart Disease}% is elevated—consider reducing salt and saturated fats.",
+      "At {Heart Disease}%, cardiovascular risk is concerning—add daily aerobic exercise.",
+      "High Heart Disease risk ({Heart Disease}%) suggests stress management and diet changes.",
+      "With {Heart Disease}% risk, schedule a cardiac evaluation.",
+      "Your heart risk of {Heart Disease}% needs attention—consult a cardiologist.",
+      "At {Heart Disease}%, risk is very high—prioritize medical intervention.",
+      "A Heart Disease risk of {Heart Disease}% is critical—seek professional care immediately.",
+      "Your {Heart Disease}% heart risk is alarming—please contact your physician."
+    ]
+  },
+  "Diabetes": {
+    "positive": [
+      "Your Diabetes risk is {Diabetes}%—keep your blood sugar in check with balanced meals.",
+      "At {Diabetes}%, your diabetes risk is low—continue your healthy lifestyle.",
+      "With Diabetes risk at {Diabetes}%, your metabolic health is strong."
+    ],
+    "negative": [
+      "Your Diabetes risk of {Diabetes}% is concerning—swap refined carbs for whole grains starting today.",
+      "At {Diabetes}%, your blood sugar control needs attention—incorporate a 10-minute walk after each meal.",
+      "High Diabetes risk ({Diabetes}%) suggests you check your fasting glucose more frequently.",
+      "With {Diabetes}% risk, schedule a comprehensive A1c test and review your medications.",
+      "Your diabetes risk at {Diabetes}% indicates dietary adjustments are overdue—consult a nutritionist.",
+      "At {Diabetes}%, risk is very high—prioritize portion control and consistent exercise.",
+      "A Diabetes risk of {Diabetes}% is critical—seek professional guidance on a tailored meal plan.",
+      "Your {Diabetes}% diabetes risk is alarming—please contact your healthcare provider immediately."
+    ]
+  },
+  "Obesity": {
+    "positive": [
+      "Your Obesity risk is {Obesity}%—you’re maintaining a healthy weight, keep it up!",
+      "At {Obesity}%, your body composition is well-managed—great job staying active!",
+      "With Obesity risk at {Obesity}%, your lifestyle choices are paying off."
+    ],
+    "negative": [
+      "Your Obesity risk of {Obesity}% is high—consider a structured weight-loss program.",
+      "At {Obesity}%, weight management is necessary—add at least 30 minutes of exercise daily.",
+      "High Obesity risk ({Obesity}%) suggests you revisit your calorie intake and portion sizes.",
+      "With {Obesity}% risk, consult a dietitian for a personalized meal plan.",
+      "Your obesity risk at {Obesity}% indicates strength training could boost your metabolism.",
+      "At {Obesity}%, risk is very high—prioritize professional guidance for safe weight loss.",
+      "An Obesity risk of {Obesity}% is critical—seek a supervised weight-management program.",
+      "Your {Obesity}% obesity risk is alarming—please consult a healthcare provider for support."
+    ]
+  },
+  "Overall": {
+    "positive": [
+      "Your overall health risk is {Overall}%—you’re on a solid path, maintain these habits.",
+      "At {Overall}%, your aggregated risk is low—keep up your balanced lifestyle.",
+      "With an overall risk of {Overall}%, your health indicators are looking good."
+    ],
+    "negative": [
+      "Your overall health risk of {Overall}% is elevated—consider a full medical check-up.",
+      "At {Overall}%, your total risk is concerning—prioritize stress management and rest.",
+      "High overall risk ({Overall}%) suggests a comprehensive lifestyle overhaul may help.",
+      "With an overall risk of {Overall}%, consult your physician about preventive measures.",
+      "Your aggregated risk at {Overall}% indicates it’s time to reevaluate diet and exercise.",
+      "At {Overall}%, risk is very high—please schedule a full wellness assessment.",
+      "An overall risk of {Overall}% is critical—seek professional guidance immediately.",
+      "Your {Overall}% overall risk is alarming—take action on health recommendations today."
+    ]
+  }
+}
